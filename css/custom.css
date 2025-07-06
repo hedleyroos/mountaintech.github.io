@@ -1,0 +1,14 @@
+b, strong { font-weight: 700; }
+.header .navbar-brand { margin: 0; }
+.header .navbar-brand img { width: auto; }
+.table th { border-top: 0; }
+.section { padding-top: 40px; padding-bottom: 30px; }
+
+#services { padding-top: 80px; }
+
+.table td span { font-size: 14px; font-style: italic; }
+
+/* Always sticky shadow */
+.header--sticky{padding-top:5px;padding-bottom:5px;background-color:#fff;box-shadow:0 0 30px 0 rgba(0,0,0,.1)}
+
+#contact img.whatsapp { width: 210px; }
