@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mountaintech.co.za/about-us/</loc>
     <lastmod>2021-09-21T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-us/</loc>
+    <loc>https://mountaintech.co.za/process/</loc>
     <lastmod>2021-09-21T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/process/</loc>
+    <loc>https://mountaintech.co.za/privacy/</loc>
     <lastmod>2021-09-21T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
-    <lastmod>2021-09-21T02:13:50+00:00</lastmod>
+    <loc>https://mountaintech.co.za/index.html</loc>
   </url><url>
-    <loc>http://localhost:1313/team/</loc>
+    <loc>https://mountaintech.co.za/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://mountaintech.co.za/team/</loc>
+    <priority>0</priority>
   </url>
 </urlset>
