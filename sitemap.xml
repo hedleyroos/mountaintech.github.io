@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mountaintech.co.za/about-us/</loc>
-    <lastmod>2021-09-21T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://mountaintech.co.za/process/</loc>
-    <lastmod>2021-09-21T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://mountaintech.co.za/privacy/</loc>
-    <lastmod>2021-09-21T02:13:50+00:00</lastmod>
-  </url><url>
-    <loc>https://mountaintech.co.za/index.html</loc>
-  </url><url>
     <loc>https://mountaintech.co.za/</loc>
-  </url><url>
-    <loc>https://mountaintech.co.za/team/</loc>
-    <priority>0</priority>
+    <lastmod>2026-09-11</lastmod>
+  </url>
+  <url>
+    <loc>https://mountaintech.co.za/privacy/</loc>
+    <lastmod>2026-09-11</lastmod>
+  </url>
+  <url>
+    <loc>https://mountaintech.co.za/paia/</loc>
+    <lastmod>2026-09-11</lastmod>
   </url>
 </urlset>
